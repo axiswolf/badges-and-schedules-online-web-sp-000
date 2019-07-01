@@ -35,10 +35,3 @@ def printer(attendees)
     puts message
   end
 end
-
-# def printer(attendees)
-#   print_me = assign_rooms(attendees)
-#   print_me.each do |attendee|
-#     puts attendee
-#   end
-# end
